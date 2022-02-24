@@ -1,0 +1,186 @@
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:  verdana;
+}
+
+.footer{
+    display:flex;
+    flex-direction: row;
+    align-content: flex-end;
+	position: relative;
+	top: 70px;
+	margin-left: 80px;
+	font-size: 18px;
+	font-family: Nunito Sans;
+    font-style: normal;
+    
+}
+html{
+	background-image: url("background-image1.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#logoimage{
+	margin-left: 85%;
+}
+
+#h1{
+	font-size: 50px;
+	margin-left: 7%
+	
+}
+
+#h3{
+	font-size: 25px;
+	margin-left: 7%;
+}
+table{
+	margin-left: 6%;
+	font-family:  calibri;
+}
+
+#tr1{
+	background-color: red;
+}
+
+td, th {
+
+   font-size: 15px;
+  
+  text-align: left;
+  padding: 8px;
+
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1;  /*Sit on top */
+  /*padding-top: 100px;  Location of the box */
+  left: 0;
+  top: 0;
+  width: 50%; /* Full width */
+  height: 50%; /* Full height */
+  /*overflow: auto;  Enable scroll if needed */
+  /*background-color: rgb(0,0,0); /* Fallback color */*/
+  /*background-color: rgba(0,0,0,0.4); /* Black w/ opacity */*/
+}
+
+
+/* The Close Button */
+.closeone , .closetwo , .closethree, .closefour , .closefive , .closesix,
+ .closeoneone, .closeonetwo , .closeonethree , .closeonefour , .closeonefive {
+  color: black;
+  float:left;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closeone:hover, .closeone:focus
+{
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.closetwo:hover, .closetwo:focus
+{
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.closethree:hover, .closethree:focus
+{
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.closefour:hover, .closefour:focus
+{
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.closefive:hover, .closefive:focus
+{
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.closesix:hover, .closesix:focus
+{
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.closeoneone:hover, .closeoneone:focus
+{
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.closeonetwo:hover, .closeonetwo:focus
+{
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.closeonethree:hover, .closeonethree:focus
+{
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.closeonefour:hover, .closeonefour:focus
+{
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.closeonefive:hover, .closeonefive:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#myBtn1{
+	color: blue;
+}
+
+#myBtn2{
+	color: blue;
+}
+#myBtn3{
+	color: blue;
+}
+#myBtn4{
+	color: blue;
+}
+#myBtn5{
+	color: blue;
+}
+#myBtn6{
+	color: blue;
+}
+#myBtn1-1{
+	color: blue;
+}
+#myBtn1-2{
+	color: blue;
+}
+#myBtn1-3{
+	color: blue;
+}
+#myBtn1-4{
+	color: blue;
+}
+#myBtn1-5{
+	color: blue;
+}
+
+
+
